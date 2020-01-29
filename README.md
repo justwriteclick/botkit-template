@@ -85,3 +85,4 @@ You can verify the bot is up and running by browsing to its healthcheck URL (i.e
 You bot is all set, responding in 1-1 and 'group' spaces, and sending a welcome message when added to a space!
 
 You can verify the bot is up and running by browsing to its healthcheck URL (i.e. the app domain.)
+
